@@ -1,2 +1,21 @@
 # Bengaluru-House-Price-Predictor
 Machine Learning Project to predict house prices in Bengaluru City.
+
+# Introduction-
+
+This project deals with predicting house prices in Bengaluru City using various factors such as area type, location, area sqft, bedrooms, bath & balcony. Buying a house or plot is a life long commitment and should not be encountered without sufficient information about the house, dimensions and market value/selling price. This project is an attempt to predict the house prices in an efficient way by considering real world factors which influence the prices.
+
+# Data-
+
+The dataset consists of around 13,000 records along with the sufficient attributes to describe it-
+1) area type - describes the type of the property such as empty plot or built-up area or super built-up area and so on.
+2) availability - describes the plot/house availability. (usually it is a date with month or sometimes speaks about the vacany for immediate move-in).
+3) location - describes the location of the house. One of the major factor that influence's the house price.
+4) size - consists info about the house. (usually something like 2BHK/3BHK and so on).
+5) society - describes the locality of the house/plot.
+6) total sqft - provides information about the total area of the house/plot in square feet.
+7) bath - contains the info the number of bath rooms in the house.
+8) balcony - describes whether the house contains any patio/veranda.
+9) price - contains the selling price of the house/plot.
+
+# Data Cleaning - 
