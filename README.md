@@ -66,7 +66,7 @@ Hebbal-
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Hebbal%20total_sqft%20vs%20price(After%20removing%20outliers).png)
   
   
-Comparison before/after removal of outliers-
+Comparison before/after removal of outliers- here outliers are categorized on the basis where 2 BHK and 3 BHK houses with similar total_sqft had almost same price per sqft, which shouldn't be the case as 3 BHK price per sqft should be greater than 2 BHK of similar total sqft. 
 
 Rajajinagar-
 
@@ -76,6 +76,22 @@ Rajajinagar-
 Hebbal-
 
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/219aeeb6f6650bd20da0e4ca0b327fadbc60c3c6/Screenshots/Hebbal%20compare.png)
+  
+  
+  
+# Model-
+
+Building any machine learning model requires us to test which model is suitable for the data and hyperparameter tuning. Here we made use of 3 models Linaer Regression, Lasso Regression, & Decision Tree and have synchorized the hyperparameters to increase the efficiency of the model along with GridSearch CV split.
+Below screenshot shows the best model performance along with its hyperparameters
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2f526164abe336e41aa0f7b17f27420a81c9c269/Screenshots/model%20scores.png)
+  
+As you can see, Linear Regression outperformed other models with a score of about 85.4% (i.e meaning it predicted 85% of the times the price of the houses accurately)
 
 
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2f526164abe336e41aa0f7b17f27420a81c9c269/Screenshots/Linear%20regression%20scores.png)
 
+
+# Conclusion-
+
+In predicting house prices of Bengaluru City, Linear Regression Model performed better than Lasso & Decision Tree models with an accuracy of 85.4%. Regression Models are more efficient in predicting the numerical values.
