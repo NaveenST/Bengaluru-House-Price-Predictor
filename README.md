@@ -33,7 +33,41 @@ The distribution of the values plays an essential role in identifying any outlie
   Numerical field -
   
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/896e14360640766813cf5633ed733ca6677f5be6/Screenshots/Null%20values%20Distribution%20for%20bath%20rooms.png)
+  
+2) Distribution of values for various fields-
 
+Bath rooms-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Distribution%20of%20Bath%20rooms.png)
+  
+Price per sqft-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Price%20per%20sqft%20distribution.png)
+  
+  
+3) Total sqft v/s Price before outliers removal-
+
+Rajajinagar-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Rajajinagar%20total_sqft%20vs%20price.png)
+  
+Hebbal-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Hebbal%20total_sqft%20vs%20price.png)
+  
+After removal of outliers-
+
+Rajajinagar-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Rajajinagar%20total_sqft%20vs%20price(After%20removing%20outliers).png)
+  
+Hebbal-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Hebbal%20total_sqft%20vs%20price(After%20removing%20outliers).png)
+  
+  
+  
+  
 
 
 
