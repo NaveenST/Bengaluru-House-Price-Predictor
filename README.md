@@ -66,8 +66,16 @@ Hebbal-
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/1c203982de530a9e70523b21a6f80c980c389d6b/Screenshots/Hebbal%20total_sqft%20vs%20price(After%20removing%20outliers).png)
   
   
+Comparison before/after removal of outliers-
+
+Rajajinagar-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/219aeeb6f6650bd20da0e4ca0b327fadbc60c3c6/Screenshots/Rajajinagar%20compare.png)
   
   
+Hebbal-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/219aeeb6f6650bd20da0e4ca0b327fadbc60c3c6/Screenshots/Hebbal%20compare.png)
 
 
 
