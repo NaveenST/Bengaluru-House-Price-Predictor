@@ -19,3 +19,11 @@ The dataset consists of around 13,000 records along with the sufficient attribut
 9) price - contains the selling price of the house/plot.
 
 # Data Cleaning - 
+
+The dataset contains a single csv file of about 13,000 records. And consists of 9 columns (6 object type and 3 numeric type), each describing the attributes of a single house/plot. The initial stages of any data cleaning process consists of checking the null values, shape, data type and data itself. After that we need to analyse the total counts for each values within a column and for entire dataset as well. The main objective of data cleaning for this project is wrt to model training, hence the data cleaning tries take a path where it assists the model building process by setting up the raw data into model compatible one.
+The distribution of the values plays an essential role in identifying any outliers within the data and combined with business domain knowledge, we should be able to get a pure data with high value which makes any model built on top of it a highly efficient one.
+
+1) In order to fill the null values we have tackled issue for categorical and numerical fields separately. For categorical, we have show the distribution of all the values along with the nulls and made a calculated assumption as to what kind of values would have been inserted for this nulls. And for numerical, we have compared mean and median values, before plugging in the suitable values through business knowledge lens.
+![image] 
+
+
