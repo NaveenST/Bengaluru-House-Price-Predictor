@@ -25,9 +25,14 @@ The distribution of the values plays an essential role in identifying any outlie
 
 1) In order to fill the null values we have tackled issue for categorical and numerical fields separately. For categorical, we have show the distribution of all the values along with the nulls and made a calculated assumption as to what kind of values would have been inserted for this nulls. And for numerical, we have compared mean and median values, before plugging in the suitable values through business knowledge lens.
   Categorical field -
-![image] (https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/896e14360640766813cf5633ed733ca6677f5be6/Screenshots/Null%20values%20Distribution%20for%20Balcony.png)
+  
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/896e14360640766813cf5633ed733ca6677f5be6/Screenshots/Null%20values%20Distribution%20for%20Balcony.png)
+
+
   Numerical field -
-![image] (https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/896e14360640766813cf5633ed733ca6677f5be6/Screenshots/Null%20values%20Distribution%20for%20bath%20rooms.png)
+  
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/896e14360640766813cf5633ed733ca6677f5be6/Screenshots/Null%20values%20Distribution%20for%20bath%20rooms.png)
+
 
 
 
