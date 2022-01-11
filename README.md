@@ -92,6 +92,24 @@ As you can see, Linear Regression outperformed other models with a score of abou
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2f526164abe336e41aa0f7b17f27420a81c9c269/Screenshots/Linear%20regression%20scores.png)
 
 
+# User Interface for Calculating the Home Prices-
+
+The default home page used for estimating the home prices looks as shown below:
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/a19d4ccbaaa9e645a92013b9fb932137213baba6/Screenshots/Default.png)
+  
+Few samples of calculating the prices in UI as shown below:
+
+Anekal-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/a19d4ccbaaa9e645a92013b9fb932137213baba6/Screenshots/Anekal%20Screenshot.png)
+  
+  
+Yeswantpur-
+
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/a19d4ccbaaa9e645a92013b9fb932137213baba6/Screenshots/Yeswanthput%20Screenshot.png)
+  
+  
 # Conclusion-
 
 In predicting house prices of Bengaluru City, Linear Regression Model performed better than Lasso & Decision Tree models with an accuracy of 85.4%. Regression Models are more efficient in predicting the numerical values.
