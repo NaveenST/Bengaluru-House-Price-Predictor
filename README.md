@@ -96,18 +96,18 @@ As you can see, Linear Regression outperformed other models with a score of abou
 
 The default home page used for estimating the home prices looks as shown below:
 
-  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/a19d4ccbaaa9e645a92013b9fb932137213baba6/Screenshots/Default.png)
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2ab2d3853ea6486560206e06fa0b5aa53fe3593e/Screenshots/Default.png)
   
 Few samples of calculating the prices in UI as shown below:
 
 Anekal-
 
-  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/a19d4ccbaaa9e645a92013b9fb932137213baba6/Screenshots/Anekal%20Screenshot.png)
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2ab2d3853ea6486560206e06fa0b5aa53fe3593e/Screenshots/Anekal%20Screenshot.png)
   
   
 Yeswantpur-
 
-  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/a19d4ccbaaa9e645a92013b9fb932137213baba6/Screenshots/Yeswanthput%20Screenshot.png)
+  ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2ab2d3853ea6486560206e06fa0b5aa53fe3593e/Screenshots/Yeswantpur%20Screenshot.png)
   
   
 # Conclusion-
