@@ -105,7 +105,7 @@ Anekal-
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2ab2d3853ea6486560206e06fa0b5aa53fe3593e/Screenshots/Anekal%20Screenshot.png)
   
   
-Yeswantpur-
+Yeswanthpur-
 
   ![image](https://github.com/NaveenST/Bengaluru-House-Price-Predictor/blob/2ab2d3853ea6486560206e06fa0b5aa53fe3593e/Screenshots/Yeswantpur%20Screenshot.png)
   
